@@ -1,0 +1,15 @@
+
+.sdie-item{
+    -fx-padding:5px;
+    -fx-border-color: #146C94;
+    -fx-border-width: 3px;
+    -fx-background-color:#AFD3E2;
+}
+
+.sdie-item:hover{
+    -fx-background-color: #19A7CE;
+    -fx-color: #F6F1F1;
+    -fx-font-weight: bold;
+}
+
+
